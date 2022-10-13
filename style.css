@@ -1,4 +1,3 @@
-/******* Bootstrap Theming ********/
 /********** Custom CSS ************/
 body {
   background-color: #F5F5F5 !important;
@@ -370,7 +369,7 @@ body {
 }
 
 .product-item .btn:hover {
-  color: #e2ba08 !important;
+  color: violet !important;
 }
 
 .table.table-borderless thead tr,
